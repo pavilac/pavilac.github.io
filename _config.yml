@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pablo Avila"
+title                    : "Pablo"
 title_separator          : "-"
-name                     : &name "Pablo Avila"
+name                     : &name "Pablo"
 description              : &description "personal description"
 url                      : "https://pablo-avila.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
