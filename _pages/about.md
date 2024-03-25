@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I hold a bachelor's degree in Electronics and Telecommunications from the University of Cuenca (2017) and a master's degree in Wireless Communications from the University of Southampton (2019). Currently, I'm pursuing a Ph.D. in Time-sensitive Networking at Ghent University and imec's Internet Technology and Data Science Lab (IDLab), focusing on deterministic wireless communications within mixed wireless-wired environments, particularly the IEEE 802.11 standard. I'm also interested in integrating IoT technologies seamlessly and applying machine learning in wireless communications. Open to collaborations and discussions aligning with my research interests.
+With a background in telecommunications engineering and a Master's degree in Wireless Communications, I am currently pursuing a Ph.D. in Wireless Time-Sensitive Networks at IDLab. My research is dedicated to enabling Wireless Time-Sensitive Networks to facilitate real-time applications across various industries.
+
+I am deeply passionate about leveraging machine learning to drive innovation in wireless networks, and I am particularly fascinated by the potential of Low Power Wide Area Networks (LPWANs) for IoT applications.
+
+I am enthusiastic about collaborating and connecting with like-minded professionals to collectively shape the future of wireless communications.
