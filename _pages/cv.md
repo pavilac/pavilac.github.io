@@ -52,7 +52,7 @@ Skills
 ======
 * Spanish: native
 * English: C1 IELTS
-* Coding: Python, C, C++, bash, Javascript, R, SQL, Latex, Matlab.
+* Coding: Python, C, C++, bash, Javascript, R, SQL, Latex, Matlab
   
 References
 ======
