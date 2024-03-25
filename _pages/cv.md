@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2020: Computer Engineer
+  * Tecmasur
+  * Duties include: Research, design, and develop information and communication system network architecture for wireless sensor networks using edge access protocols (LoRaWAN, Wi-Fi, NFC, Bluetooth, and others). 
+
 
   
 Skills
