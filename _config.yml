@@ -22,10 +22,10 @@ repository               : "pavilac/pavilac.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pablo Avila-Campos"
+  name             : "Pablo Avila"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher at IDLab"
-  location         : "Ghent, Belgium"
+  location         : "Ghent - Belgium"
   employer         : "Gent University and imec"
   uri              : # URL
   email            : "pablo.avilacampos@imec.be" 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=C0-L4TwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-4379-6806"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Pablo-Avila-Campos"
 
   # Repositories and software development
