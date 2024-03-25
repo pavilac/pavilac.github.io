@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "pavilacam"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "EstebanAvilaC"  # Replace this with your X / Twitter handle
+  twitter          : # Username  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
