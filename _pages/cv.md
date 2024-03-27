@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical Engineering, Ghent University, 2125 (expected)
+* Ph.D. in Electrical Engineering, Ghent University, 2025 (expected)
 * MSc in Wireless Communications (Distinction), University of Southampton, 2019 
 * B.S. in Electronics and Telecommunications (1st), University of Cuenca, 2017 
 
